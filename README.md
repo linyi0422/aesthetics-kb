@@ -1,3 +1,5 @@
+用到了notion integration和notion database，很可惜最后没有成功。
+
 # 审美镜片库（Lens-first）
 
 Notion 负责内容编辑；本站负责付费交付、权限与浏览体验（镜片为主入口）。
