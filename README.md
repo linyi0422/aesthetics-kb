@@ -37,3 +37,4 @@ npm run dev
 ## 备注
 
 当前 DB 层使用 Node 24 的内置 `node:sqlite`（实验特性），优先保证无原生依赖、能快速推进；后续要上线可替换为 Postgres/成熟 ORM。
+
